@@ -1,0 +1,9 @@
+[
+  {
+    "ip": "192.168.6.39",
+    "username": "admin",
+    "timestamp": "2025-04-16 12:39:36",
+    "action": "BLOCKED",
+    "detected_at": "2026-04-12 16:39:17"
+  }
+]

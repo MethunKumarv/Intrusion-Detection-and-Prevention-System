@@ -1,0 +1,5490 @@
+[
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:13",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:31",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:35",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:44",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:47",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:49",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:34:52",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:34:54",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:34:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:34:57",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:34:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:00",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:03",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:17",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:21",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:23",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:24",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:26",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:27",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:29",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:30",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:32",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:33",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:34",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:36",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:38",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:39",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:41",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:42",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:43",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:45",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:46",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:48",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:50",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:51",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:35:53",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:35:55",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:35:56",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:35:58",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:35:59",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:01",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:02",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:04",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:05",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:06",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:08",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "test",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:09",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:11",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:12",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:14",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:15",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "admin",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:16",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "123",
+    "timestamp": "2025-04-16 12:36:18",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "admin",
+    "timestamp": "2025-04-16 12:36:19",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "pass",
+    "timestamp": "2025-04-16 12:36:20",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "password",
+    "timestamp": "2025-04-16 12:36:22",
+    "action": "BLOCKED"
+  },
+  {
+    "ip": "192.168.71.39",
+    "username": "user",
+    "password": "test",
+    "timestamp": "2025-04-16 12:36:23",
+    "action": "BLOCKED"
+  }
+]
